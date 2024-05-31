@@ -1,0 +1,2 @@
+{"name":"Adam","email":"adam@gmail.com","address":"ON","salary":1500.0,"numberOfServiceYear":3,"bonus":0.0,"totalCompensation":1500.0,"pension":0.0,"renewalDate":1748729919899}
+{"name":"Bob","email":"bob@gmail.com","address":"QC","salary":2000.0,"numberOfServiceYear":5,"bonus":250.0,"totalCompensation":2000.0,"pension":20.0,"renewalDate":null}
