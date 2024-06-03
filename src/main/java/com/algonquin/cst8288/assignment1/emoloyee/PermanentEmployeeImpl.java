@@ -14,7 +14,7 @@ public class PermanentEmployeeImpl implements EmployeeService{
     @Override
     public void calculateTotalCompensation(Employee employee){
         employee.setPension(employee.getSalary() * Rate.PENSION_PERCENTAGE);
-        employee.setTotalCompensation(employee.getSalary() + employee.getBonus());
         employee.setBonus(employee.getSalary() * Rate.BONUS_PERCENTAGE * employee.getNumberOfServiceYear());
+        employee.setTotalCompensation(employee.getSalary() + employee.getBonus());
     };
 }
