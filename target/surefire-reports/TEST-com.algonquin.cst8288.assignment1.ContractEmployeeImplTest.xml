@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.algonquin.cst8288.assignment1.ContractEmployeeImplTest" time="0.037" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.algonquin.cst8288.assignment1.ContractEmployeeImplTest" time="0.039" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="CA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\feish\AppData\Local\Temp\surefire7434149172696513581\surefirebooter-20240602181926972_3.jar C:\Users\feish\AppData\Local\Temp\surefire7434149172696513581 2024-06-02T18-19-26_800-jvmRun1 surefire-20240602181926972_1tmp surefire_0-20240602181926972_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\feish\AppData\Local\Temp\surefire14932883109530636205\surefirebooter-20240602223540919_3.jar C:\Users\feish\AppData\Local\Temp\surefire14932883109530636205 2024-06-02T22-35-40_768-jvmRun1 surefire-20240602223540919_1tmp surefire_0-20240602223540919_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.algonquin.cst8288.assignment1.ContractEmployeeImplTest#testPermanentEmployee"/>
     <property name="surefire.test.class.path" value="C:\Users\feish\Documents\NetBeansProjects\assignment1S24\target\test-classes;C:\Users\feish\Documents\NetBeansProjects\assignment1S24\target\classes;C:\Users\feish\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\feish\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\feish\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\feish\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.6.0\jackson-datatype-jsr310-2.6.0.jar;C:\Users\feish\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\feish\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\feish\.m2\repository\org\jsoup\jsoup\1.11.3\jsoup-1.11.3.jar;C:\Users\feish\.m2\repository\org\apache\httpcomponents\httpclient\4.5.8\httpclient-4.5.8.jar;C:\Users\feish\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\feish\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\feish\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.5\jackson-core-2.13.5.jar;C:\Users\feish\.m2\repository\org\mockito\mockito-core\5.12.0\mockito-core-5.12.0.jar;C:\Users\feish\.m2\repository\net\bytebuddy\byte-buddy\1.14.15\byte-buddy-1.14.15.jar;C:\Users\feish\.m2\repository\net\bytebuddy\byte-buddy-agent\1.14.15\byte-buddy-agent-1.14.15.jar;C:\Users\feish\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\feish\AppData\Local\Temp\surefire7434149172696513581\surefirebooter-20240602181926972_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\feish\AppData\Local\Temp\surefire14932883109530636205\surefirebooter-20240602223540919_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
